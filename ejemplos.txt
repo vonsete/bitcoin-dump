@@ -1,0 +1,33 @@
+# Ejemplos de Direcciones y Transacciones de Bitcoin para Testing
+
+## Direcciones Famosas
+
+# Dirección de Satoshi Nakamoto (Genesis Block)
+1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+
+# Dirección con mucha actividad
+1NDyJtNTjmwk5xPNhjgAMu4HDHigtobu1s
+
+# Dirección de Binance (Exchange)
+34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo
+
+# Pizza Bitcoin (primera compra física con BTC)
+1XPTgDRhN8RFnzniWCddobD9iKZatrvH4
+
+## Transacciones Famosas
+
+# Pizza Bitcoin Transaction (10,000 BTC por 2 pizzas - Mayo 22, 2011)
+a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d
+
+# Una de las primeras transacciones de Satoshi
+f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16
+
+# Transacción grande reciente
+4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b
+
+# Transacción con múltiples outputs
+3a1b9e330d32fef1ee42f8e86420d2be978bbe0dc5862f17da9027cf9e11f8c4
+
+## Uso:
+# Copia cualquiera de estas direcciones o TxID y úsalas con el script:
+# python bitcoin_analyzer.py 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
